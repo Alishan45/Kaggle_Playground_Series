@@ -95,4 +95,4 @@ This project is part of Kaggle's Playground Series (July 2024) and tackles binar
 - Analyze leaderboard results and tune for generalization.
 
 ## Author
-- [baseershah7](https://github.com/baseershah7)
+- [Ali Shan](https://github.com/alishan45)
