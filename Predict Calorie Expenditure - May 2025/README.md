@@ -72,4 +72,4 @@ This project is part of Kaggle's Playground Series (May 2025) and focuses on pre
 - Investigate model stacking for further performance gains.
 
 ## Author
-- [baseershah7](https://github.com/baseershah7)
+- [Ali Shan](https://github.com/alishan45)
