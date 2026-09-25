@@ -92,4 +92,4 @@ This project tackles a regression task to predict flood probability using a synt
 - Combine both approaches via ensemble methods or some try more diversity within same and different models for oof ensembling.
 
 ## Author
-- [baseershah7](https://github.com/baseershah7)
+- - [Ali Shan](https://github.com/alishan45)
