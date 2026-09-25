@@ -87,4 +87,4 @@ This project is part of the Kaggle Playground Series (June 2024), focused on pre
 - Analyze feature importances and interpretability.
 
 ## Author
-- [baseershah7](https://github.com/baseershah7)
+- [Ali Shan](https://github.com/alishan45)
