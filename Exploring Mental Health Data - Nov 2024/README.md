@@ -87,5 +87,5 @@ This project explores mental health survey data as part of the Kaggle Playground
 - Analyze feature importances to understand drivers of depression.
 
 ## Author
-- [baseershah7](https://github.com/baseershah7)
+- [Ali Shan](https://github.com/alishan45)
 
