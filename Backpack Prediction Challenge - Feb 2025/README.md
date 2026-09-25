@@ -64,6 +64,6 @@ This project is part of the Kaggle Playground Series (February 2025) and aims to
 - Evaluation of predictions on validation set (cross-validation, error metrics).
 
 ## Author
-- [baseershah7](https://github.com/baseershah7)
+- [Ali Shan](https://github.com/alishan45)
 
 
