@@ -104,5 +104,5 @@ The dataset contains over 3.1 million instances with 22 features (including the 
 - Investigate the specific impact of high-cardinality features and the effectiveness of ordinal encoding versus other methods.
 
 ## Author
-- [baseershah7](https://github.com/baseershah7)
+- [Ali Shan](https://github.com/alishan45)
 
