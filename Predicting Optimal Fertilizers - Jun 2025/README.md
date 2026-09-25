@@ -105,4 +105,4 @@ This project tackles a 7-class classification problem to predict the optimal fer
 - Investigate ensemble methods combining XGBoost with neural networks and other boosting models for more diversity.
 
 ## Author
-- [baseershah7](https://github.com/baseershah7)
+- [Ali Shan](https://github.com/alishan45)
