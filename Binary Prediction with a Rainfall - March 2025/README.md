@@ -78,5 +78,5 @@ This project is part of the Kaggle Playground Series (March 2025) and focuses on
 - Fine-tune hyperparameters for all models.
 
 ## Author
-- [baseershah7](https://github.com/baseershah7)
+- [Ali Shan](https://github.com/alishan45)
 
