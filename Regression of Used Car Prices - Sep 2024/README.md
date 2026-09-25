@@ -76,4 +76,4 @@ This project tackles a regression task to predict used car prices using a synthe
 - Experiment with model stacking or ensemble methods.
 - Investigate hyperparameter tuning for further performance gains.
 ## Author
-- [baseershah7](https://github.com/baseershah7)
+- [Ali Shan](https://github.com/alishan45)
