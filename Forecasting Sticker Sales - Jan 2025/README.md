@@ -80,5 +80,5 @@ This folder contains a series of notebooks tackling the Kaggle Playground Series
 3. Run all cells in sequence to preprocess, train, and generate submission files.
 
 ## Author
-- [baseershah7](https://github.com/baseershah7)
+- [Ali Shan](https://github.com/alishan45)
 
