@@ -82,4 +82,4 @@ This project is part of the Kaggle Playground Series (April 2025), focused on pr
 - Analyze feature importances and interpretability.
 
 ## Author
-- [baseershah7](https://github.com/baseershah7)
+- [Ali Shan](https://github.com/alishan45)
