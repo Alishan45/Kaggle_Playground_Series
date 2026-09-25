@@ -90,4 +90,4 @@ Place all CSV files in /kaggle/input/ directories as shown in notebook paths.
 - Analyze feature importance for business insights.
   
 ## Author
-- [baseershah7](https://github.com/baseershah7)
+- [Ali Shan](https://github.com/alishan45)
